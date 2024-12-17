@@ -25,7 +25,7 @@
 ## 🖥️ Screenshots
 
 ### 📄 Fetched Data
-![Fetched Data](images/data.png)
+![Fetched Data](images/data.PNG)
 
 ### 📊 Data Analysis
 ![Data Analysis](images/data_analysis.png)
