@@ -28,13 +28,13 @@
 ![Fetched Data](images/data.PNG)
 
 ### 📊 Data Analysis
-![Data Analysis](images/data_analysis.png)
+![Data Analysis](images/data_analysis.PNG)
 
 ### 📅 Monthly Average Close
-![Monthly Average Close](images/monthly_average_close.png)
+![Monthly Average Close](images/monthly_average_close.PNG)
 
 ### 📈 Closing Price Graph
-![Graph](images/graph.png)
+![Graph](images/graph.PNG)
 
 ---
 
